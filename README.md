@@ -1,5 +1,4 @@
-# README.md
-<h1> Construction website for local business: </h1>
+<h1> Construction website for local business </h1>
 
 It is created to be responsive on both PC and mobile devices;
 
